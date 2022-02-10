@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pako": "^2.0.4",
+    "vm2": "^3.9.5"
+  }
+}
