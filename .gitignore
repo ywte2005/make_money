@@ -1,3 +1,4 @@
 # 项目排除路径
 /node_modules/
 /短信/node_modules/
+/百度文库/img/

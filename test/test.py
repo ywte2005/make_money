@@ -1,28 +1,6 @@
-import re
+url_en="3%7C119%7C0%2C7%7C119%7C17%2C18%7C119%7C33%2C39%7C119%7C50%2C72%7C119%7C68%2C115%7C119%7C84%2C170%7C119%7C100%2C228%7C119%7C118%2C347%7C119%7C159%2C394%7C119%7C166%2C442%7C119%7C182%2C485%7C119%7C199%2C518%7C121%7C216%2C547%7C123%7C233%2C583%7C127%7C249%2C619%7C131%7C266%2C652%7C135%7C283%2C673%7C137%7C299%2C692%7C139%7C316%2C699%7C140%7C334%2C706%7C140%7C350%2C706%7C140%7C367%2C713%7C140%7C384%2C717%7C140%7C400%2C728%7C140%7C418%2C739%7C140%7C434%2C746%7C140%7C452%2C753%7C140%7C467%2C757%7C140%7C485%2C757%7C140%7C500%2C757%7C140%7C518%2C760%7C140%7C533%2C760%7C140%7C550%2C760%7C140%7C568"
 
-a = "111.1米大萨你好123x"
-
-
-def place(zi, mu):
-    """查询子字符串在大字符串中的所有位置"""
-    len1 = len(zi)
-    pl = []
-    for each in range(len(mu) - len1):
-        if mu[each:each + len1] == zi:  # 找出与子字符串首字符相同的字符位置
-            pl.append(each)
-    return pl
-
-
-def is_en(a):
-    for f in ["*", "x"]:
-        index = place(f, a)
-        for x in index:
-            if x >= len(a):
-                return False
-            if a[x + 1].isdigit():
-                return True
-    return False
-
-
-print(is_en(a))
-
+from urllib.parse import unquote,quote
+text = unquote(url_en, 'utf-8')
+text_ = quote(text, 'utf-8')
+print(url_en==text_)
