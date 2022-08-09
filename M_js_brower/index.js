@@ -1,7 +1,6 @@
 var fs = require('fs');
 var catvm2 = require('./CatVm2/catvm2.node.js');
 
-
 const {VM, VMScript} = require('vm2');
 var catvm2code = catvm2.GetCode();
 

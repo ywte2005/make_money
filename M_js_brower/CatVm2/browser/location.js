@@ -20,14 +20,14 @@ location = {};
 location.__proto__ = Location.prototype;
 
 location.hash = "",
-location.host = "www.douyin.com",
-location.hostname = "www.douyin.com",
-location.href = "https://www.douyin.com/",
-location.origin = "https://www.douyin.com",
+location.host = "www.zhihu.com",
+location.hostname = "www.zhihu.com",
+location.href = "https://www.zhihu.com/",
+location.origin = "https://www.zhihu.com/",
 location.pathname = "/",
 location.port = "",
 location.protocol = "https"
-location.search = "?source=switch_tab&type=user"
+location.search = ""
 
 
 

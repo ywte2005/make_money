@@ -6,7 +6,7 @@ var Window = function Window() {
     throw new TypeError("Illegal constructor")
 
 };catvm.safefunction(Window)
-
+Window.name=""
 Object.defineProperties(Window.prototype,{
     [Symbol.toStringTag]:{
         value:"Window",
@@ -38,10 +38,6 @@ Window.prototype.__proto__=WindowProperties.prototype
 ////////////////////
 window.localStorage=class localStorage{}
 window.localStorage.getItem=function getItem(arg) {
-    if(arg=='tt_scid'){
-        return "7reCZ9RRjk76le0t.WaLfEcAhJ0PuPHmhU.d0GWuuRnMmRgpwkMMfBM9.hr9L0v.7725"
-    }
-    debugger;
 }  ;catvm.safefunction(window.localStorage.getItem)
 window.localStorage=catvm.proxy(window.localStorage)
 
@@ -49,10 +45,6 @@ window.localStorage=catvm.proxy(window.localStorage)
 
 window.sessionStorage=class sessionStorage{}
 window.sessionStorage.getItem=function getItem(arg) {
-    if(arg=='tt_scid'){
-        return "7reCZ9RRjk76le0t.WaLfEcAhJ0PuPHmhU.d0GWuuRnMmRgpwkMMfBM9.hr9L0v.7725"
-    }
-    debugger;
 }  ;catvm.safefunction(window.sessionStorage.getItem)
 window.sessionStorage=catvm.proxy(window.sessionStorage)
 

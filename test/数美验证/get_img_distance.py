@@ -43,7 +43,7 @@ det = ddddocr.DdddOcr(det=False, ocr=False)
 
 def requests_url():
     url = "https://captcha.fengkongcloud.cn/ca/v1/register?data=%7B%7D&sdkver=1.1.3&callback=sm_" + str(
-        time.time()) + "&channel=DEFAULT&appId=default&rversion=1.0.3&lang=zh-cn&model=slide&organization=RlokQwRlVjUrTUlkIqOg"
+        time.time()) + "&channel=DEFAULT&appId=default&rversion=1.0.3&lang=zh-cn&model=slide&organization=eR46sBuqF0fdw7KWFLYa"
     response_json = requests.get(url, headers=headers).text
     img_info = re.findall('"bg":"(.*?)".*?"fg":"(.*?)".*?"rid":"(.*?)"', response_json)[0]
     bg_img = "https://castatic.fengkongcloud.cn" + img_info[0]

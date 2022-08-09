@@ -2,278 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5de0f3f8-cc3f-4fa4-a451-1c83e30979c2" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/M_JS逆向/js/大唐集团（二）.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_JS逆向/js/小红书蒲公英.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/HTMLDocument.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/HTMLElements/HTMLDivElement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/HTMLElements/htmlelements.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/Screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/Storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/eventTarget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/navigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/window.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/catvm2.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_memory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_print.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_proxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_safefunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M_js_brower/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frida_hook/app_list/KuAn_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frida_hook/xuexi/hook_app_md5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frida_hook/xuexi/js API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frida_hook/xuexi/自毁小程序_native.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/下载音乐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/debugger_js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/out.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/数美验证/get_img_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/监控/114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/监控/猿急送.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/监控/约苗.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/监控/闲鱼.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M_JS逆向/知乎/js_proxy/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M_JS逆向/知乎/js_proxy/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ast还原混淆/file/163.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/M_JS框架.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/Document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/EventTarget.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/HTMLDocument.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_JS逆向/js/大唐集团.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/History.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/Location.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/Navigator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/Screen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/Window.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/browser/WindowProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/windowProperties.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/lhvm.node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/tool/tools.node.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/tools.node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/tool/vm_memory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/tool/vm_print.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/tool/vm_proxy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/LhVm/tool/vm_safefunciton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS框架/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS逆向/js/douyin.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_JS逆向/js/douyin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS逆向/js/微店登录2.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_JS逆向/js/微店登录2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_JS逆向/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_JS逆向/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/LICENSE.APACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/LICENSE.BSD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/LICENSE.PSF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography-3.4.8.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/__about__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/fernet.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/fernet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/_der.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/_oid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/_oid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/interfaces.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/aead.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/aead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/backend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ciphers.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ciphers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/cmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/cmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/decode_asn1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/decode_asn1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/dh.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/dh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/dsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/dsa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ec.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ed25519.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ed25519.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ed448.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ed448.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/encode_asn1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/encode_asn1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/hashes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/hmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/hmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/ocsp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/poly1305.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/poly1305.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/rsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/rsa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x25519.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x25519.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x448.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x448.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x509.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/backends/openssl/x509.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/_openssl.abi3.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/_openssl.abi3.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/_padding.abi3.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/_rust.abi3.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/_rust.abi3.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/openssl/_conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/openssl/_conditional.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/openssl/binding.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/bindings/openssl/binding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/_serialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/_serialization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/dh.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/dh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/dsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/dsa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ec.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ed25519.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ed25519.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ed448.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/ed448.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/padding.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/padding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/rsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/rsa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/x448.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/asymmetric/x448.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/aead.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/aead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/modes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/ciphers/modes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/cmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/cmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/hashes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/hmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/hmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/concatkdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/concatkdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/hkdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/hkdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/kbkdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/kbkdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/scrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/scrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/x963kdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/kdf/x963kdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/keywrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/keywrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/padding.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/padding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/poly1305.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/poly1305.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/pkcs12.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/pkcs12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/pkcs7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/pkcs7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/ssh.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/serialization/ssh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/twofactor/hotp.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/twofactor/hotp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/twofactor/totp.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/twofactor/totp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/hazmat/primitives/twofactor/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/certificate_transparency.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/certificate_transparency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/extensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/general_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/general_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/name.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/ocsp.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/ocsp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/oid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cryptography/x509/oid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libavresample.4.0.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libavresample.4.0.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libbluray.2.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libbluray.2.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libcrypto.1.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libcrypto.1.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libfontconfig.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libfontconfig.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libfreetype.6.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libfreetype.6.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libgmp.10.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libgmp.10.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libgnutls.30.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libgnutls.30.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libidn2.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libidn2.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libintl.8.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libintl.8.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/liblzma.5.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/liblzma.5.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libmp3lame.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libmp3lame.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libogg.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libogg.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopencore-amrnb.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopencore-amrnb.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopencore-amrwb.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopencore-amrwb.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopus.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libopus.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libp11-kit.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libp11-kit.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libpng16.16.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libpng16.16.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libsoxr.0.1.2.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libsoxr.0.1.2.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libspeex.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libspeex.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libssl.1.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libssl.1.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtasn1.6.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtasn1.6.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtheoradec.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtheoradec.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtheoraenc.1.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libtheoraenc.1.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libunistring.2.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libunistring.2.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libvorbis.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libvorbis.0.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libvorbisenc.2.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/.dylibs/libvorbisenc.2.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/LICENSE-3RD-PARTY.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/LICENSE-3RD-PARTY.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/cv2/data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr-1.0.6.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr/common.onnx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/ddddocr/common.onnx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium-3.141.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/common/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/common/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/common/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/android/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/android/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/blackberry/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/blackberry/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/action_chains.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/action_chains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/action_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/action_builder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/input_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/input_device.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/interaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/interaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/key_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/key_actions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/key_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/key_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/mouse_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/mouse_button.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/pointer_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/pointer_actions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/pointer_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/actions/pointer_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/alert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/by.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/by.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/desired_capabilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/desired_capabilities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/html5/application_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/html5/application_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/keys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/proxy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/touch_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/common/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/edge/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/extension_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/extension_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/firefox_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/firefox_binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/firefox_profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/firefox_profile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/remote_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/remote_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.xpi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/webelement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/ie/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/opera/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/opera/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/opera/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/opera/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/phantomjs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/phantomjs/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/phantomjs/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/command.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/file_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/file_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/getAttribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/getAttribute.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/isDisplayed.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/isDisplayed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/mobile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/mobile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/remote_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/remote_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/switch_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/switch_to.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/webelement.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/remote/webelement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/remote_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/remote_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/safari/webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/abstract_event_listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/abstract_event_listener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/event_firing_webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/event_firing_webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/expected_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/expected_conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/select.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/select.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/support/wait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/selenium/webdriver/webkitgtk/webdriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/document.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/location.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/window.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/browser/window.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/CatVm2/tools/vm_proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M_js_brower/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/M_js_brower/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/数美验证/get_img_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/数美验证/get_img_distance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,9 +27,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="package.json" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -342,18 +85,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindow运行.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/M_JS逆向/知乎" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/M_JS逆向/知乎" />
       <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/ast还原混淆/test" />
+      <recent name="$PROJECT_DIR$/ast还原混淆/163" />
       <recent name="$PROJECT_DIR$/brower_auto" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/M_JS逆向/js" />
-      <recent name="$PROJECT_DIR$/M_opencv/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/薅羊毛" />
@@ -363,89 +106,17 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ks_rpc (1)">
-    <configuration name="微店登录.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_JS逆向/js/微店登录.js" working-dir="$PROJECT_DIR$/M_JS逆向/js">
+  <component name="RunManager" selected="Node.js.code.js (1)">
+    <configuration name="code.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_js_brower/js_proxy/code.js" working-dir="$PROJECT_DIR$/M_js_brower/js_proxy">
       <method v="2" />
     </configuration>
-    <configuration name="去哪.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_JS逆向/js/去哪.js" working-dir="$PROJECT_DIR$/M_JS逆向/js">
+    <configuration name="douyin_sign.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/douyin_sign.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="蘑菇街.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_JS逆向/js/蘑菇街.js" working-dir="$PROJECT_DIR$/M_JS逆向/js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_js_brower/index.js" working-dir="$PROJECT_DIR$/M_js_brower">
       <method v="2" />
     </configuration>
-    <configuration name="北京市企业信用信息表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_JS逆向/js/北京市企业信用信息表.js" working-dir="$PROJECT_DIR$/M_JS逆向/js">
-      <method v="2" />
-    </configuration>
-    <configuration name="网易云.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_JS逆向/js/网易云.js" working-dir="$PROJECT_DIR$/M_JS逆向/js">
-      <method v="2" />
-    </configuration>
-    <configuration name="ks.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/快手/ks.js" working-dir="$PROJECT_DIR$/test/快手">
-      <method v="2" />
-    </configuration>
-    <configuration name="ks_rpc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/快手" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/快手/ks_rpc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ks_rpc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/ks_rpc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="post_requerst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/快手" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/快手/post_requerst.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+    <configuration name="proxy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/M_js_brower/js_proxy/proxy.js" working-dir="$PROJECT_DIR$/M_js_brower/js_proxy">
       <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -471,19 +142,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.ks.js" />
-      <item itemvalue="Python.post_requerst" />
-      <item itemvalue="Python.ks_rpc" />
-      <item itemvalue="Python.ks_rpc (1)" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Node.js.douyin_sign.js" />
+      <item itemvalue="Node.js.code.js (1)" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.proxy.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ks_rpc (1)" />
+        <item itemvalue="Node.js.code.js (1)" />
+        <item itemvalue="Node.js.douyin_sign.js" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.ks_rpc" />
-        <item itemvalue="Python.post_requerst" />
-        <item itemvalue="Node.js.ks.js" />
+        <item itemvalue="Node.js.proxy.js" />
+        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -729,8 +400,44 @@
       <workItem from="1657010633346" duration="268000" />
       <workItem from="1657077522072" duration="12202000" />
       <workItem from="1657160274000" duration="928000" />
-      <workItem from="1657181503147" duration="21506000" />
+      <workItem from="1657181503147" duration="26697000" />
+      <workItem from="1657522947770" duration="3386000" />
+      <workItem from="1657530411431" duration="3735000" />
+      <workItem from="1657591493175" duration="1264000" />
+      <workItem from="1657693950715" duration="8000" />
+      <workItem from="1657695406261" duration="3750000" />
+      <workItem from="1657789086384" duration="22000" />
+      <workItem from="1657790608701" duration="594000" />
+      <workItem from="1657851519589" duration="28000" />
+      <workItem from="1658113134893" duration="5437000" />
+      <workItem from="1658202094743" duration="7360000" />
+      <workItem from="1658282686713" duration="2271000" />
+      <workItem from="1658299410684" duration="3733000" />
+      <workItem from="1658303372346" duration="5595000" />
+      <workItem from="1658373242078" duration="3848000" />
+      <workItem from="1658801324062" duration="2927000" />
+      <workItem from="1658889171037" duration="7714000" />
+      <workItem from="1659325396408" duration="599000" />
+      <workItem from="1659411209280" duration="4469000" />
+      <workItem from="1659510721130" duration="1961000" />
+      <workItem from="1659520353415" duration="8000" />
+      <workItem from="1659579661810" duration="10744000" />
+      <workItem from="1659663275559" duration="21872000" />
+      <workItem from="1659923606710" duration="4211000" />
+      <workItem from="1659928472650" duration="10122000" />
+      <workItem from="1659946669286" duration="103000" />
+      <workItem from="1659946781118" duration="24000" />
+      <workItem from="1659946843029" duration="4003000" />
+      <workItem from="1660011062892" duration="14902000" />
     </task>
+    <task id="LOCAL-00001" summary="更改">
+      <created>1657267374502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657267374504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -840,209 +547,35 @@
           <option name="timeStamp" value="285" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/数美验证/get_sm_response.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/数美验证/get_sm_response.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test/快手/ks_rpc.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="338" />
+          <line>216</line>
+          <option name="timeStamp" value="354" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/07_test.js</url>
-          <line>101</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/一品威客.js</url>
-          <line>15</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/毛毛租.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/北京市企业信用信息表.js</url>
-          <line>71</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/问财.js</url>
-          <line>259</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js.html</url>
-          <line>164</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js.html</url>
-          <line>8</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/蘑菇街.js</url>
-          <line>638</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/06_猿人学第一题.js</url>
-          <line>57</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/猿人学第二题.js</url>
-          <line>15</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/国密sm_2.js</url>
-          <line>81</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/online.js</url>
-          <line>276</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/网易de.js</url>
-          <line>7892</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/网易de.js</url>
-          <line>7575</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/网易de_cb.js</url>
-          <line>221</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/pdd_de2.js</url>
-          <line>24</line>
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/微店登录.js</url>
-          <line>4897</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/pdd_Te.js</url>
-          <line>470</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>vmscript://VM2</url>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
           <line>26</line>
-          <option name="timeStamp" value="156" />
+          <option name="timeStamp" value="405" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/云汉新城.js</url>
-          <line>811</line>
-          <option name="timeStamp" value="167" />
+          <url>file://$PROJECT_DIR$/test/zhihu_x_zse_96_20220804.js</url>
+          <line>310</line>
+          <option name="timeStamp" value="407" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/微店登录2.js</url>
-          <line>1595</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/抖音_sign.js</url>
-          <line>200</line>
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/大唐集团.js</url>
-          <line>197</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS框架/code.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="203" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS框架/code.js</url>
-          <line>5</line>
-          <option name="timeStamp" value="205" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>vmscript://VM2</url>
-          <line>223</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>vmscript://VM2</url>
-          <line>1922</line>
-          <option name="timeStamp" value="208" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS框架/code.js</url>
-          <line>1759</line>
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>vmscript://VM2</url>
-          <line>1911</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>vmscript://VM2</url>
-          <line>1586</line>
-          <option name="timeStamp" value="213" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/数美验证/get_sign.js</url>
-          <line>320</line>
-          <option name="timeStamp" value="230" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_JS逆向/js/douyin.js</url>
-          <line>676</line>
-          <option name="timeStamp" value="232" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/抖音/抖音错误.js</url>
-          <line>25</line>
-          <option name="timeStamp" value="234" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/抖音/抖音重新扣取.js</url>
-          <line>1247</line>
-          <option name="timeStamp" value="242" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_js_brower/code.js</url>
-          <line>827</line>
-          <option name="timeStamp" value="254" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_js_brower/code.js</url>
-          <line>840</line>
-          <option name="timeStamp" value="256" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/M_js_brower/code.js</url>
-          <line>848</line>
-          <option name="timeStamp" value="257" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/抖音/抖音重新扣取.js</url>
-          <line>482</line>
-          <option name="timeStamp" value="258" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/抖音/抖音重新扣取.js</url>
-          <line>1666</line>
-          <option name="timeStamp" value="262" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/test/抖音/抖音重新扣取.js</url>
-          <line>497</line>
-          <option name="timeStamp" value="276" />
+          <url>file://$PROJECT_DIR$/M_js_brower/CatVm2/browser/location.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="409" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1057,12 +590,13 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_money__$08_.coverage" NAME="08_猿人学第三题 覆盖结果" MODIFIED="1631258902431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
     <SUITE FILE_PATH="coverage/make_money__$LazyIDA.coverage" NAME="LazyIDA 覆盖结果" MODIFIED="1644476878078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Downloads" />
+    <SUITE FILE_PATH="coverage/make_money__$dd.coverage" NAME="dd 覆盖结果" MODIFIED="1657701783579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frida_hook/app_list" />
     <SUITE FILE_PATH="coverage/make_money__$01_js.coverage" NAME="01_调用js文件 覆盖结果" MODIFIED="1630485660704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
     <SUITE FILE_PATH="coverage/make_money__$01_pandas.coverage" NAME="01_pandas 覆盖结果" MODIFIED="1631175018808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_pandas" />
     <SUITE FILE_PATH="coverage/make_money__$06_.coverage" NAME="06_猿人学第一题 覆盖结果" MODIFIED="1631179948968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
     <SUITE FILE_PATH="coverage/make_money__$get_img_distance.coverage" NAME="get_img_distance 覆盖结果" MODIFIED="1650788699339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/数美验证" />
     <SUITE FILE_PATH="coverage/make_money__$ks.coverage" NAME="ks 覆盖结果" MODIFIED="1657183110176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/快手" />
-    <SUITE FILE_PATH="coverage/make_money__$get_sm_response.coverage" NAME="get_sm_response 覆盖结果" MODIFIED="1652095184753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/数美验证" />
+    <SUITE FILE_PATH="coverage/make_money__$get_sm_response.coverage" NAME="get_sm_response 覆盖结果" MODIFIED="1657531957142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/数美验证" />
     <SUITE FILE_PATH="coverage/make_money__$.coverage" NAME="下载音乐 覆盖结果" MODIFIED="1655696782637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/make_money__$hook_app_md5.coverage" NAME="hook_app_md5 覆盖结果" MODIFIED="1649228294174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frida_hook/xuexi" />
     <SUITE FILE_PATH="coverage/make_money__$04_.coverage" NAME="04_音乐 覆盖结果" MODIFIED="1631085046665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
@@ -1080,8 +614,8 @@
     <SUITE FILE_PATH="coverage/make_money__$114.coverage" NAME="114 覆盖结果" MODIFIED="1648801735812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/监控" />
     <SUITE FILE_PATH="coverage/make_money__$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1633920189280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jz" />
     <SUITE FILE_PATH="coverage/make_money__$zhonggong.coverage" NAME="zhonggong 覆盖结果" MODIFIED="1637054589923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考研" />
-    <SUITE FILE_PATH="coverage/make_money__$ks_rpc.coverage" NAME="ks_rpc 覆盖结果" MODIFIED="1657185494361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/make_money__$ks_rpc__1_.coverage" NAME="ks_rpc (1) 覆盖结果" MODIFIED="1657267342761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/快手" />
+    <SUITE FILE_PATH="coverage/make_money__$ks_rpc.coverage" NAME="ks_rpc 覆盖结果" MODIFIED="1658383100525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/快手" />
+    <SUITE FILE_PATH="coverage/make_money__$ks_rpc__1_.coverage" NAME="ks_rpc (1) 覆盖结果" MODIFIED="1657523056361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/快手" />
     <SUITE FILE_PATH="coverage/make_money__$decrypt_param.coverage" NAME="decrypt_param 覆盖结果" MODIFIED="1632638480962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/短信" />
     <SUITE FILE_PATH="coverage/make_money__$01js.coverage" NAME="01——调用js 覆盖结果" MODIFIED="1637828809944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向/js" />
     <SUITE FILE_PATH="coverage/make_money__$09_.coverage" NAME="09_猿人学第四题 覆盖结果" MODIFIED="1631264380820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
@@ -1095,7 +629,7 @@
     <SUITE FILE_PATH="coverage/make_money__$get_douyin_sign.coverage" NAME="get_douyin_sign 覆盖结果" MODIFIED="1652324629865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brower_auto" />
     <SUITE FILE_PATH="coverage/make_money__$9_9.coverage" NAME="京东9.9秒杀 覆盖结果" MODIFIED="1639042281818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_cx/京东" />
     <SUITE FILE_PATH="coverage/make_money__$hook_native.coverage" NAME="hook_native 覆盖结果" MODIFIED="1649229018699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frida_hook/xuexi" />
-    <SUITE FILE_PATH="coverage/make_money__$test.coverage" NAME="test 覆盖结果" MODIFIED="1657261455491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/make_money__$test.coverage" NAME="test 覆盖结果" MODIFIED="1660030494754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/make_money__$02_.coverage" NAME="02_绘图 覆盖结果" MODIFIED="1630549752410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_opencv" />
     <SUITE FILE_PATH="coverage/make_money__$07_.coverage" NAME="07_猿人学第二题 覆盖结果" MODIFIED="1631257982498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M_JS逆向" />
   </component>

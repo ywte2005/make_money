@@ -1,8 +1,15 @@
 exports={}
+const {window,navigator,screen,location,document,history} = require("./proxy");
+window.name=""
+alert=function (e) {
+    console.log(e)
+}
 function o(e) {
     return (o = "function" == typeof Symbol && "symbol" == typeof Symbol.A ? function (e) {
         return typeof e
     } : function (e) {
+        console.log(e)
+        console.log(e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e)
         return e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e
     })(e)
 }
@@ -175,7 +182,7 @@ l.prototype.O = function (A, C, s) {
                 S = this.U(), this.M[0] = 66, this.T += this.M[11];
                 break;
             case 331:
-                D = new Buffer.from(A, "base64").toString("binary"), w = D.charCodeAt(0) << 16 | D.charCodeAt(1) << 8 | D.charCodeAt(2);
+                D = atob(A), w = D.charCodeAt(0) << 16 | D.charCodeAt(1) << 8 | D.charCodeAt(2);
                 for (var k = 3; k < w + 3; k += 3) this.G.push(D.charCodeAt(k) << 16 | D.charCodeAt(k + 1) << 8 | D.charCodeAt(k + 2));
                 for (V = w + 3; V < D.length;) E = D.charCodeAt(V) << 8 | D.charCodeAt(V + 1), T = D.slice(V + 2, V + 2 + E), this.D.push(T), V += E + 2;
                 this.M[21] = 8, this.T += 1e3 < V ? 21 : 35;
